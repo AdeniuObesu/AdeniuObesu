@@ -21,6 +21,7 @@ Young, dynamic, and deeply passionate about programming, I am a junior software 
 <a href="https://angular.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" width="40" height="40" align="center" /></a>
 <a href="https://www.oracle.com/fr/database/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width="40" height="40" align="center" /></a>
 <a href="https://www.mysql.com/fr/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" height="40" align="center" /></a>
+<a href="https://www.postgresql.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" height="40" align="center" /></a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" height="40" align="center" /></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40" align="center" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40" align="center" /></a>
