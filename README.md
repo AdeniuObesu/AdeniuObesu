@@ -4,11 +4,11 @@
 
 ![](https://komarev.com/ghpvc/?username=AdeniuObesu&color=ff69b4)
 
-I am a junior software engineer and fullstack developer who constantly pushes boundaries to stay ahead in the ever-evolving world of technology, ready to collaborate with you on your projects, bringing my enthusiasm, creativity, and dedication to help bring your ideas to life. Let's achieve remarkable results.
+A software engineer and fullstack developer focused on writing clean, maintainable code and designing scalable solutions. I'm ready to collaborate on your projects, bringing my dedication to help bring your ideas to life, reach out to me at *moukhafi.anass@gmail.com*.
 
 <!-- <a href="https://linkedin.com/in/moukhafi-anass" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn logo" height="30" width="40" /></a> -->
 
-### I'm familiar and good at:
+### I'm familiar and have hands-on experience in:
 
 <a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40" align="center" /></a>
 <a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40" align="center" /></a>
